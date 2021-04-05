@@ -55,10 +55,13 @@
   "REGISTER": "Registrate",
   "Logout": "Salir",
   "Names": "Nombres",
+  "SurName": "Apellidos",
   "Phone": "Teléfono",
   "Address": "Dirección",
   "Country": "Pais",
   "Select": "Seleccione",
   "Type user": "Tipo de Usuario",
+  "Type document": "Tipo de Documento",
+  "Document Number": "Número de Documento",
   "Create new user": "Crear Nuevo Usuario"
 }

@@ -25,6 +25,7 @@ class CreateUsersTable extends Migration
             $table->string('password');
             $table->string('tel_user',15);
             $table->integer('id_pais_user');
+            $table->integer('id_rol_user');
             $table->rememberToken();
             $table->timestamps();
         });
