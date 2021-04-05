@@ -4,8 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Role extends Model
+class Documento extends Model
 {
-     protected $table = 'roles';
-    //
+     protected $table = 'documentos';
 }
