@@ -63,5 +63,7 @@
   "Type user": "Tipo de Usuario",
   "Type document": "Tipo de Documento",
   "Document Number": "Número de Documento",
-  "Create new user": "Crear Nuevo Usuario"
+  "Save": "Guardar",
+  "Create new user": "Crear Nuevo Usuario",
+  "New User": "Nuevo Usuario"
 }
